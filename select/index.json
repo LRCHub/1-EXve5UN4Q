@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sweet Dreams",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2026-01-07T12:40:52.315128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/01_Sweet_Dreams_(Of_You)_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/02_Sweet_Dreams_(Of_You)_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Dreams Of You",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/03_Sweet_Dreams_Of_You_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker feat. Imanbek",
+      "has_synced": true,
+      "path": "select/04_Sweet_Dreams_Alan_Walker_feat._Imanbek.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/05_Sweet_Dreams_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Feat. Nicki Minaj)",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/06_Sweet_Dreams_(Feat._Nicki_Minaj)_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Dreams, Sweet Cheeks",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/07_Sweet_Dreams,_Sweet_Cheeks_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/08_Sweet_Dreams_(Are_Made_Of_This)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Nouvelle Vague feat. Gerald Toto",
+      "has_synced": true,
+      "path": "select/09_Sweet_Dreams_Nouvelle_Vague_feat._Gerald_Toto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/10_Sweet_Dreams_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/11_Sweet_Dreams_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Nouvelle Vague, Gerald Toto",
+      "has_synced": false,
+      "path": "select/12_Sweet_Dreams_Nouvelle_Vague,_Gerald_Toto.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/13_Sweet_Dreams_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/14_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "T’Pau",
+      "has_synced": false,
+      "path": "select/15_Sweet_Dreams_T’Pau.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made Of This) ('91 Remix, 1991)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/16_Sweet_Dreams_(Are_Made_Of_This)_('91_Remix,_1991)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made Of This) (7'' Remix, 1983)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/17_Sweet_Dreams_(Are_Made_Of_This)_(7''_Remix,_1983)_Eurythmics.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Dreams",
+      "artist": "Neko Hacker, 利香",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Dreams_Neko_Hacker,_利香.txt"
+    }
+  ]
+}
